@@ -1,4 +1,4 @@
-# 💪 Habit Hero with Pixela (Python + Pixels!)
+# 💪 Habit Tracker with Pixela (Python + Pixels!)
 
 Turn your daily habits into pixel art graphs using the [Pixela API](https://pixe.la/)! This Python script helps you build and track habits like a boss — one colorful square at a time.
 
