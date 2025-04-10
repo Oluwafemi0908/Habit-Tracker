@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
-USERNAME = 'oluwafemi09'
-TOKEN = 'gfge3ui4r0967ujvfdk'
+USERNAME = 'PIXELA USERNAME'
+TOKEN = 'PIXELA TOKEN'
 pixela_endpoint = 'https://pixe.la/v1/users'
 GRAPH_ID = "graph1"
 date = datetime.now().date().strftime("%Y%m%d")
